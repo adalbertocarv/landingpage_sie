@@ -1,4 +1,4 @@
-import { BarChart3, Mail, MapPin, Phone } from "lucide-react";
+import { Mail, MapPin, Phone } from "lucide-react";
 
 export function Footer() {
   return (
@@ -7,8 +7,7 @@ export function Footer() {
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-12 mb-12">
           <div>
             <div className="flex items-center gap-2 mb-4">
-              <BarChart3 className="w-8 h-8 text-emerald-500" />
-              <span className="text-2xl font-bold text-white">SIE</span>
+              <img src="/logo-sie.png" alt="SIE Logo" className="h-20 w-auto brightness-0 invert" />
             </div>
             <p className="text-gray-400 leading-relaxed mb-4">
               A plataforma mais completa para pesquisas políticas no Brasil.

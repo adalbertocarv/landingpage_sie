@@ -114,7 +114,7 @@ export function Footer() {
 
         <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-gray-500 text-sm">
-            2024 SIE. Todos os direitos reservados.
+            2026 SIE. Todos os direitos reservados.
           </p>
           <div className="flex gap-6 text-sm">
             <a href="#" className="hover:text-emerald-400 transition-colors">

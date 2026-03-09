@@ -98,11 +98,11 @@ export function Footer() {
             <ul className="space-y-3">
               <li className="flex items-start gap-2">
                 <Mail className="w-5 h-5 text-emerald-500 flex-shrink-0 mt-0.5" />
-                <span className="text-sm">contato@SIE.com.br</span>
+                <span className="text-sm">contato@sisinfoeleitoral.com.br</span>
               </li>
               <li className="flex items-start gap-2">
                 <Phone className="w-5 h-5 text-emerald-500 flex-shrink-0 mt-0.5" />
-                <span className="text-sm">(11) 3000-0000</span>
+                <span className="text-sm">(61)9 8126-3022</span>
               </li>
               <li className="flex items-start gap-2">
                 <MapPin className="w-5 h-5 text-emerald-500 flex-shrink-0 mt-0.5" />

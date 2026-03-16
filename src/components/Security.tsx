@@ -87,7 +87,7 @@ export function Security() {
               <div className="mt-8 pt-8 border-t border-white/20">
                 <p className="text-center text-lg font-semibold">Compliance</p>
                 <div className="flex justify-center gap-6 mt-4">
-                  <div className="bg-white/20 px-4 py-2 rounded-lg text-sm font-medium">ISO 27001</div>
+                  {/* <div className="bg-white/20 px-4 py-2 rounded-lg text-sm font-medium">ISO 27001</div> */}
                   <div className="bg-white/20 px-4 py-2 rounded-lg text-sm font-medium">LGPD</div>
                   {/* <div className="bg-white/20 px-4 py-2 rounded-lg text-sm font-medium">SOC 2</div> */}
                 </div>
